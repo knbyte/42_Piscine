@@ -32,5 +32,5 @@ Can only be divided by itself and 1 without remainders. The first prime number i
 
 ***Fibonacci Sequence***<br />
 Adding the last two numbers in a sequence.<br />
-*Example: 1 + 1 = 2, 1 + 2 = 3, 2 + 3 = 5, 3 + 5 = 8*
+*Example: 1 + 1 = 2, 1 + 2 = 3, 2 + 3 = 5, 3 + 5 = 8*<br />
 *(1, 1, 2, 3, 5, 8…)*
