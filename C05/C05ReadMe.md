@@ -1,19 +1,4 @@
-# C05 
-
-C05 is mostly based arouns maths (ew, I know).
-
-## Exercises
-Exercise 00 : ft_iterative_factorial<br />
-Exercise 01 : ft_recursive_factorial<br />
-Exercise 02 : ft_iterative_power<br />
-Exercise 03 : ft_recursive_power<br />
-Exercise 04 : ft_fibonacci<br />
-Exercise 05 : ft_sqrt<br />
-Exercise 06 : ft_is_prime<br /> 
-Exercise 07 : ft_find_next_prime<br />
-*Exercise 08 : The Ten Queens*<br />
-
-## Here are some of the key words and concepts to know:
+# Here are some of the key words and concepts to know for C05
 
 ***Iterative***<br />
 Loops through a set of instructions until conditions are met.
@@ -45,7 +30,3 @@ Can only be divided by itself and 1 without remainders. The first prime number i
 Adding the last two numbers in a sequence.<br />
 *Example: 1 + 1 = 2, 1 + 2 = 3, 2 + 3 = 5, 3 + 5 = 8*<br />
 *(1, 1, 2, 3, 5, 8…)*
-
-
-## Weighting
-If you complete everything but Ex08 you will be graded 80%.
