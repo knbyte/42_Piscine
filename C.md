@@ -1,7 +1,7 @@
 # C EXERCISES
 
 ## C00
-C00...
+C00 is an introduction to c. If you want to learn a little about how c works [have a look here](https://github.com/knbyte/42_Piscine_2024/blob/main/Extra%20Resources/Learning-c.md)
 
 ### Exercise List
 [Exercice 00: ft_putchar](https://github.com/kaiaydan/42_Piscine_2024/blob/main/Exercises/C00-Ex00-ft_putchar.c)<br />
@@ -15,10 +15,10 @@ Exercise 07: ft_putnbr<br />
 Exercise 08: ft_print_combn<br />
 
 ### Weighting
-If you do from Ex00 to Ex04 you get 50%.
+If you do from Ex00 to Ex04 you get 50%. *(50% is the threshold to pass!)*
 
 ## C01
-C00...
+C01 starts to look at [pointers](), modifying and printing strings.
 
 ### Exercise List
 [Exercise 00 : ft_ft]()<br />
@@ -32,11 +32,11 @@ Exercise 07 : ft_rev_int_tab<br />
 Exercise 08 : ft_sort_int_tab<br />
 
 ### Weighting
-Completing from Ex00 to Ex04 gives you 50%
-Completing from Ex00 to Ex06 gives you 85%
+Completing from Ex00 to Ex04 gives you 50%.
+Completing from Ex00 to Ex06 gives you 85%.
 
 ## C02
-C02...
+C02 you start to look at replicating existing functions as well as checking and transforming strings.
 
 ### Exercise List
 [Exercise 00 : ft_strcpy]()<br />
@@ -75,18 +75,18 @@ C04...
 Completing from Ex00 to Ex04 gives you 50%
 
 ## C05
-C05 is mostly based arouns maths (ew, I know).
-[Here are some good key concepts to know for C05]()
+C05 is mostly based around maths (ew, I know).
+[Here are some good key concepts to know for C05](https://github.com/knbyte/42_Piscine_2024/blob/main/Extra%20Resources/C05Concepts.md)
 
 ### Exercise List
-[[Exercise 00 : ft_iterative_factorial]()<br />
-[Exercise 01 : ft_recursive_factorial]()<br />
-[Exercise 02 : ft_iterative_power]()<br />
-[Exercise 03 : ft_recursive_power]()<br />
-[Exercise 04 : ft_fibonacci]()<br />
-[Exercise 05 : ft_sqr]()<br />
-[Exercise 06 : ft_is_prime]()<br />
-[Exercise 07 : ft_find_next_prime]()<br />
+[[Exercise 00 : ft_iterative_factorial](https://github.com/knbyte/42_Piscine_2024/blob/main/Exercises/C05-Ex00-ft_iterative_factorial.c)<br />
+[Exercise 01 : ft_recursive_factorial](https://github.com/knbyte/42_Piscine_2024/blob/main/Exercises/C05-Ex01-ft_recursive_factorial.c)<br />
+[Exercise 02 : ft_iterative_power](https://github.com/knbyte/42_Piscine_2024/blob/main/Exercises/C05-Ex02-ft_iterative_power.c)<br />
+[Exercise 03 : ft_recursive_power](https://github.com/knbyte/42_Piscine_2024/blob/main/Exercises/C05-Ex03-ft_recursive_power.c)<br />
+[Exercise 04 : ft_fibonacci](https://github.com/knbyte/42_Piscine_2024/blob/main/Exercises/C05-Ex04-ft_fibonacci.c)<br />
+[Exercise 05 : ft_sqr](https://github.com/knbyte/42_Piscine_2024/blob/main/Exercises/C05-Ex05-ft_sqrt.c)<br />
+[Exercise 06 : ft_is_prime](https://github.com/knbyte/42_Piscine_2024/blob/main/Exercises/C05-Ex06-ft_is_prime.c)<br />
+[Exercise 07 : ft_find_next_prime](https://github.com/knbyte/42_Piscine_2024/blob/main/Exercises/C05-Ex07-ft_find_next_prime.c)<br />
 Exercise 08 : The Ten Queens<br />
 
 ### Weighting
