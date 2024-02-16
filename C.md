@@ -103,7 +103,6 @@ Exercise 08 : The Ten Queens<br />
 ### Weighting
 Completing from Ex00 to Ex04 gives you 50%
 
-# C EXERCISES
 ## C06
 C06 is the introduction to argc/argv and paramaters.
 
@@ -116,7 +115,6 @@ Exercise 03 : ft_sort_params <br />
 ### Weighting
 Completing from Ex00 to Ex0???? gives you 50%.
 
-# C EXERCISES
 ## C08
 C08 introduces us to header files, #define and macros.
 
