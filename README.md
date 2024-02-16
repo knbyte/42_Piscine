@@ -4,16 +4,16 @@ Doing something like this with zero knowledge is overwhelming^TM
 
 Don't panic. Breathe. We got this. *Keep Swimming.*
 
-### [Git & Ssh Stuff]()
+## Links:
 
-### Git
+### [Git & Ssh Stuff](https://github.com/kaiaydan/42_Piscine_2024/blob/main/Using_Git.md)
 
-### The Social Stuff
+### [The Social Stuff](https://github.com/kaiaydan/42_Piscine_2024/blob/main/Using_Git.md)
 
-## EXERCISES
+### [Shell Stuff](https://github.com/kaiaydan/42_Piscine_2024/blob/main/Shell.md)
 
-Take a look at the general advice in each readme file, try it youself, and if worst comes to worst have a look at my code and try to read, understand and replicate it yourself. 
+### [C Stuff](https://github.com/kaiaydan/42_Piscine_2024/blob/main/C.md)
 
-### SHELL
+### [Customising Your Terminal & Vim](https://github.com/kaiaydan/42_Piscine_2024/blob/main/Extra%20Resources/Customising%20Vim%20%26%20iTerm.pdf)
 
-### C
+### [Black Magic, aka. Makefiles](https://github.com/kaiaydan/42_Piscine_2024/blob/main/Extra%20Resources/Makefiles.md)
