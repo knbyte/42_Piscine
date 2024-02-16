@@ -18,9 +18,3 @@ To add every single file/change you can use ```git add .```<br />
 You use ```git status``` to check what you have added/not added.<br />
 To let the computer know you're about to push changes, you ```git commit -m "SaveName"```.<br />
 SaveName can be anything you want. Finally, you ```git push``` to save the changes.
-
-### Masters, Branches etc.
-
-This isn't too relevant, outside of maybe the rush projects, but it doesn't hurt to learn!
-
-
