@@ -2,10 +2,10 @@
 
 Doing something like this with zero knowledge is overwhelming^TM - I would know, I've just done it - which is why I can tell you that you have definetly got this!
 
-*Don't panic.*
-*Breathe.*
-*We got this.*
-*Keep Swimming.*
+*Don't panic.*<br />
+*Breathe.*<br />
+*We got this.*<br />
+*Keep Swimming.*<br />
 
 ## Links:
 
