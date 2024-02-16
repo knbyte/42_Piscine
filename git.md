@@ -1,0 +1,3 @@
+# Adjusting to using Git
+
+
