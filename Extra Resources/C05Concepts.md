@@ -16,8 +16,8 @@ Product of all positive integers less than or equal to a given positive integer.
 ***Power (Exponents)***<br />
 A number raised to a power represents a product where the same number is used as a repeated factor.
 The number is called the base and the power is given by the exponent. The base is the repeated factor (the number multiplied) and the exponent counts the number of factors.<br />
-*Example: 53 = 5 × 5 × 5 = 125*<br />
-*Example: 82  = 8 × 8 = 64*<br />
+*Example: 5^3 = 5 × 5 × 5 = 125*<br />
+*Example: 8^2  = 8 × 8 = 64*<br />
 
 ***Square Root***<br />
 The square root of a target number is the number that, when multiplied by itself, equals the target number. <br />
