@@ -1,8 +1,11 @@
-# A Beginners Guide to the 42 Piscine!
+# Guide to the 42 Piscine ~
 
-Doing something like this with zero knowledge is overwhelming^TM
+Doing something like this with zero knowledge is overwhelming^TM - I would know, I've just done it - which is why I can tell you that you have definetly got this!
 
-Don't panic. Breathe. We got this. *Keep Swimming.*
+*Don't panic.*
+*Breathe.*
+*We got this.*
+*Keep Swimming.*
 
 ## Links:
 
