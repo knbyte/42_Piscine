@@ -21,13 +21,13 @@ If you do from Ex00 to Ex04 you get 50%. *(50% is the threshold to pass!)*
 C01 starts to look at [pointers](), modifying and printing strings.
 
 ### Exercise List
-[Exercise 00 : ft_ft]()<br />
-[Exercise 01 : ft_ultimate_ft]()<br />
-[Exercise 02 : ft_swap]()<br />
-[Exercise 03 : ft_div_mod]()<br />
-[Exercise 04 : ft_ultimate_div_mod]()<br />
-[Exercise 05 : ft_putstr]()<br />
-[Exercise 06 : ft_strlen]()<br />
+[Exercise 00 : ft_ft](https://github.com/knbyte/42_Piscine_2024/blob/main/Exercises/C01-Ex00-ft_ft.c)<br />
+[Exercise 01 : ft_ultimate_ft](https://github.com/knbyte/42_Piscine_2024/blob/main/Exercises/C01-Ex01-ft_ultimate_ft.c)<br />
+[Exercise 02 : ft_swap](https://github.com/knbyte/42_Piscine_2024/blob/main/Exercises/C01-Ex02-ft_swap.c)<br />
+[Exercise 03 : ft_div_mod](https://github.com/knbyte/42_Piscine_2024/blob/main/Exercises/C01-Ex03-ft_div_mod.c)<br />
+[Exercise 04 : ft_ultimate_div_mod](https://github.com/knbyte/42_Piscine_2024/blob/main/Exercises/C01-Ex04-ft_ultimate_div_mod.c)<br />
+[Exercise 05 : ft_putstr](https://github.com/knbyte/42_Piscine_2024/blob/main/Exercises/C01-Ex05-ft_putstr.c)<br />
+[Exercise 06 : ft_strlen](https://github.com/knbyte/42_Piscine_2024/blob/main/Exercises/C01-Ex06-ft_strlen.c)<br />
 Exercise 07 : ft_rev_int_tab<br />
 Exercise 08 : ft_sort_int_tab<br />
 
