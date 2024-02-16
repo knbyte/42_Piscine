@@ -1,13 +1,4 @@
 # C EXERCISES
-## C0
-C0...
-
-### Exercise List
-]()<br />
-
-### Weighting
-Completing from Ex00 to Ex04 gives you 50%
-
 
 ## C00
 C00...
@@ -44,8 +35,8 @@ Exercise 08 : ft_sort_int_tab<br />
 Completing from Ex00 to Ex04 gives you 50%
 Completing from Ex00 to Ex06 gives you 85%
 
-## C0
-C0...
+## C02
+C02...
 
 ### Exercise List
 [Exercise 00 : ft_strcpy]()<br />
@@ -65,8 +56,8 @@ Exercise 12 : ft_print_memory<br />
 ### Weighting
 Completing from Ex00 to Ex gives you 
 
-## C0
-C0...
+## C03
+C03...
 
 ### Exercise List
 ]()<br />
@@ -74,19 +65,50 @@ C0...
 ### Weighting
 Completing from Ex00 to Ex04 gives you 50%
 
-## C0
-C0...
+## C04
+C04...
 
 ### Exercise List
 ]()<br />
 
 ### Weighting
 Completing from Ex00 to Ex04 gives you 50%
-## C0
-C0...
+
+## C05
+C05 is mostly based arouns maths (ew, I know).
+[Here are some good key concepts to know for C05]()
+
+### Exercise List
+[[Exercise 00 : ft_iterative_factorial]()<br />
+[Exercise 01 : ft_recursive_factorial]()<br />
+[Exercise 02 : ft_iterative_power]()<br />
+[Exercise 03 : ft_recursive_power]()<br />
+[Exercise 04 : ft_fibonacci]()<br />
+[Exercise 05 : ft_sqr]()<br />
+[Exercise 06 : ft_is_prime]()<br />
+[Exercise 07 : ft_find_next_prime]()<br />
+Exercise 08 : The Ten Queens<br />
+
+### Weighting
+Completing from Ex00 to Ex04 gives you 50%
+
+# C EXERCISES
+## C06
+C06...
 
 ### Exercise List
 ]()<br />
 
 ### Weighting
 Completing from Ex00 to Ex04 gives you 50%
+
+# C EXERCISES
+## C08
+C08...
+
+### Exercise List
+{Exercise 00:]()<br />
+
+### Weighting
+Completing from Ex00 to Ex04 gives you 50%
+
