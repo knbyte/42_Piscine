@@ -1,7 +1,8 @@
 # Guide to the 42 Piscine ~
 
-Doing something like this with zero knowledge is overwhelming^TM - I would know, I've just done it - which is why I can tell you that you've got this!
-
+Doing something like this with zero knowledge is overwhelming^TM<br />
+I would know, I've just done it - which is why I can tell you that you've got this!<br />
+<br />
 *Don't panic.*<br />
 *Breathe.*<br />
 *Keep Swimming.*<br />
