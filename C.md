@@ -90,7 +90,7 @@ C05 is mostly based around maths (ew, I know).
 [Here are some good key concepts to know for C05](https://github.com/knbyte/42_Piscine_2024/blob/main/Extra%20Resources/C05Concepts.md)
 
 ### Exercise List
-[[Exercise 00 : ft_iterative_factorial](https://github.com/knbyte/42_Piscine_2024/blob/main/Exercises/C05-Ex00-ft_iterative_factorial.c)<br />
+[Exercise 00 : ft_iterative_factorial](https://github.com/knbyte/42_Piscine_2024/blob/main/Exercises/C05-Ex00-ft_iterative_factorial.c)<br />
 [Exercise 01 : ft_recursive_factorial](https://github.com/knbyte/42_Piscine_2024/blob/main/Exercises/C05-Ex01-ft_recursive_factorial.c)<br />
 [Exercise 02 : ft_iterative_power](https://github.com/knbyte/42_Piscine_2024/blob/main/Exercises/C05-Ex02-ft_iterative_power.c)<br />
 [Exercise 03 : ft_recursive_power](https://github.com/knbyte/42_Piscine_2024/blob/main/Exercises/C05-Ex03-ft_recursive_power.c)<br />
@@ -108,7 +108,10 @@ Completing from Ex00 to Ex04 gives you 50%
 C06...
 
 ### Exercise List
-]()<br />
+[Exercise 00 : ft_print_program_name](https://github.com/knbyte/42_Piscine_2024/blob/main/Exercises/C06-Ex00-ft_print_program_name.c) <br />
+[Exercise 01 : ft_print_params](https://github.com/knbyte/42_Piscine_2024/blob/main/Exercises/C06-Ex01-ft_print_params.c) <br />
+[Exercise 02 : ft_rev_params](https://github.com/knbyte/42_Piscine_2024/blob/main/Exercises/C06-Ex02-ft_print_rev_params.c) <br />
+Exercise 03 : ft_sort_params <br />
 
 ### Weighting
 Completing from Ex00 to Ex04 gives you 50%
