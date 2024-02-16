@@ -15,6 +15,23 @@ For this one, have a look at some of the commands in the above list! (Hint - you
 **Exercise 01: testShell00 && Exercise 02: Oh yeah, mooore...**
 For these you'll want to know the following information:
 
+***Changing File Permissions***
+
+| Octal Value | File Permission Set | Permissions Description             |
+| ------------| ------------------- | ----------------------------------- |
+|      0      |         ---         | No Permissions                      |
+|      1      |         --x         | Execute Permissions Only            |
+|      2      |         -w-         | Write Permission Only               |
+|      3      |         -wx         | Write and Execute Permissions       |
+|      4      |         r--         | Read Permissions Only               |
+|      5      |         r-x         | Read and Execute Permissions        |
+|      6      |         rw-         | Read and Write Permissions          |
+|      7      |         rwx         | Read, Write and Execute Permissions |
+
+> [Changing File Permissions - Oracle Help Centre](https://docs.oracle.com/cd/E19504-01/802-5750/6i9g464pv/index.html)
+
+
+
 **Exercise 03: SSH me!**
 This is just making the SSH key - you likely already did this when watching the instructional videos!
 
