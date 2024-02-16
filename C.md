@@ -60,7 +60,13 @@ Completing from Ex00 to Ex gives you
 C03...
 
 ### Exercise List
-]()<br />
+[Exercise 00 : ft_strcmp](https://github.com/knbyte/42_Piscine_2024/blob/main/Exercises/C03-Ex00-ft_strcmp.c) <br />
+[Exercise 01 : ft_strncmp](https://github.com/knbyte/42_Piscine_2024/blob/main/Exercises/C03-Ex01-ft_strncmp.c) <br />
+[Exercise 02 : ft_strcat](https://github.com/knbyte/42_Piscine_2024/blob/main/Exercises/C03-Ex02-ft_strcat.c)<br />
+[Exercise 03 : ft_strncat](https://github.com/knbyte/42_Piscine_2024/blob/main/Exercises/C03-Ex03-ft_strncat.c) <br />
+Exercise 04 : ft_strstr<br />
+Exercise 05 : ft_strlcat <br />
+
 
 ### Weighting
 Completing from Ex00 to Ex04 gives you 50%
