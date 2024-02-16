@@ -18,4 +18,12 @@ Doing something like this with zero knowledge is overwhelming^TM - I would know,
 
 ### [Customising Your Terminal & Vim](https://github.com/kaiaydan/42_Piscine_2024/blob/main/Extra%20Resources/Customising%20Vim%20%26%20iTerm.pdf)
 
+### [Some Cool Extensions for 42](https://github.com/kaiaydan/42_Piscine_2024/blob/main/Extra%20Resources/Extensions)
+
+### [Vim]()
+
+### [Visual Studio Code]()
+
+### [Exams]()
+
 ### [Black Magic AKA Makefiles](https://github.com/kaiaydan/42_Piscine_2024/blob/main/Extra%20Resources/Makefiles.md)
