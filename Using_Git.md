@@ -14,7 +14,10 @@ To use the git commands you'll need an ssh key - one of the first instructional 
 
 ### Basic Git Commands:
 To add files you use ```git add```, followed by the filename.<br />
+<br />
 To add every single file/change you can use ```git add .```<br />
+<br />
 You use ```git status``` to check what you have added/not added.<br />
+<br />
 To let the computer know you're about to push changes, you ```git commit -m "SaveName"```.<br />
 SaveName can be anything you want. Finally, you ```git push``` to save the changes.
