@@ -9,11 +9,11 @@ list here
 
 The mandatory Shell00 assignments (I personally didn't go beyone the mandatory Shell00 and didn't do Shell01)
 
-**Exercise 00: Z**
+**Exercise 00: Z**<br />
 For this one, have a look at some of the commands in the above list! (Hint - you essentially want to make a folder (Ex00), and a file within that folder (z) that contains a message (Z).
 
-**Exercise 01: testShell00 && Exercise 02: Oh yeah, mooore...**
-For these you'll want to know the following information:
+**Exercise 01: testShell00 && Exercise 02: Oh yeah, mooore...**<br />
+For these you'll want to know the following information:<br />
 
 [***Changing File Permissions - Oracle Help Centre***](https://docs.oracle.com/cd/E19504-01/802-5750/6i9g464pv/index.html)
 | Octal Value | File Permission Set | Permissions Description             |
@@ -28,20 +28,16 @@ For these you'll want to know the following information:
 |      7      |         rwx         | Read, Write and Execute Permissions |
 
 
-
-
-
-
-**Exercise 03: SSH me!**
+**Exercise 03: SSH me!**<br />
 This is just making the SSH key - you likely already did this when watching the instructional videos!
 
-**Exercise 04: midLS**
+**Exercise 04: midLS**<br />
 For this one you'll want to go to man ls. The following are the secctions from the manual page you'll be looking for:
 
 echo ls -mtp > midLS — echoes the list program to the file named midLS 
 
 
-**Exercise 05: GiT commit**
+**Exercise 05: GiT commit**<br />
 > Some Helpful Links:<br />
 > [Stack Overflow Answer - Git get --source information in --format](https://stackoverflow.com/questions/12712775/git-get-source-information-in-format)<br />
 > [Git Log Format Cheat Sheet](https://dev.to/hoanganhlam/git-log-format-string-cheat-sheet-328d)<br />
