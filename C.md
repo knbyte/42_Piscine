@@ -75,7 +75,12 @@ Completing from Ex00 to Ex04 gives you 50%
 C04...
 
 ### Exercise List
-]()<br />
+[Exercise 00: ft_strlen](https://github.com/knbyte/42_Piscine_2024/blob/main/Exercises/C04-Ex00-ft_strlen.c)<br />
+[Exercise 01: ft_putstr](https://github.com/knbyte/42_Piscine_2024/blob/main/Exercises/C04-Ex01-ft_putstr.c)<br />
+[Exercise 02: ft_putnbr](https://github.com/knbyte/42_Piscine_2024/blob/main/Exercises/C04-Ex02-ft_putnbr.c)<br />
+[Exercise 03: ft_atoi](https://github.com/knbyte/42_Piscine_2024/blob/main/Exercises/C04-Ex03-ft_atoi.c)<br />
+Exercise 04: ft_putnbr_base <br />
+Exercise 05: ft_atoi_base <br />
 
 ### Weighting
 Completing from Ex00 to Ex04 gives you 50%
