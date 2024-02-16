@@ -54,7 +54,7 @@ Exercise 11 : ft_putstr_non_printable<br />
 Exercise 12 : ft_print_memory<br />
 
 ### Weighting
-Completing from Ex00 to Ex gives you 
+Completing from Ex00 to Ex08 gives you 50%.
 
 ## C03
 C03...
@@ -72,7 +72,7 @@ Exercise 05 : ft_strlcat <br />
 Completing from Ex00 to Ex04 gives you 50%
 
 ## C04
-C04...
+C04 looks at some functions we've seen before, handling numbers in the same way as atoi and introduces us to bases.
 
 ### Exercise List
 [Exercise 00: ft_strlen](https://github.com/knbyte/42_Piscine_2024/blob/main/Exercises/C04-Ex00-ft_strlen.c)<br />
@@ -83,7 +83,7 @@ Exercise 04: ft_putnbr_base <br />
 Exercise 05: ft_atoi_base <br />
 
 ### Weighting
-Completing from Ex00 to Ex04 gives you 50%
+Completing from Ex00 to Ex02 gives you 50%
 
 ## C05
 C05 is mostly based around maths (ew, I know).
@@ -105,7 +105,7 @@ Completing from Ex00 to Ex04 gives you 50%
 
 # C EXERCISES
 ## C06
-C06...
+C06 is the introduction to argc/argv and paramaters.
 
 ### Exercise List
 [Exercise 00 : ft_print_program_name](https://github.com/knbyte/42_Piscine_2024/blob/main/Exercises/C06-Ex00-ft_print_program_name.c) <br />
@@ -114,11 +114,11 @@ C06...
 Exercise 03 : ft_sort_params <br />
 
 ### Weighting
-Completing from Ex00 to Ex04 gives you 50%
+Completing from Ex00 to Ex0???? gives you 50%.
 
 # C EXERCISES
 ## C08
-C08...
+C08 introduces us to header files, #define and macros.
 
 ### Exercise List
 [Exercise 00 : ft.h](https://github.com/knbyte/42_Piscine_2024/blob/main/Exercises/C08-Ex00-ft.h) <br />
@@ -129,5 +129,5 @@ Exercise 04 : ft_strs_to_tab <br />
 Exercise 05 : ft_show_tab <br />
 
 ### Weighting
-Completing from Ex00 to Ex04 gives you 50%
+Completing from Ex00 to Ex0??? gives you 50%.
 
