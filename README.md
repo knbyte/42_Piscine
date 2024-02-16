@@ -4,7 +4,6 @@ Doing something like this with zero knowledge is overwhelming^TM - I would know,
 
 *Don't panic.*<br />
 *Breathe.*<br />
-*We got this.*<br />
 *Keep Swimming.*<br />
 
 ## Links:
