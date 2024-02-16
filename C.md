@@ -39,15 +39,15 @@ Completing from Ex00 to Ex06 gives you 85%.
 C02 you start to look at replicating existing functions as well as checking and transforming strings.
 
 ### Exercise List
-[Exercise 00 : ft_strcpy]()<br />
-[Exercise 01 : ft_strncpy]()<br />
-[Exercise 02 : ft_str_is_alpha]()<br />
-[Exercise 03 : ft_str_is_numeric]()<br />
-[Exercise 04 : ft_str_is_lowercase]()<br />
-[Exercise 05 : ft_str_is_uppercase]()<br />
-[Exercise 06 : ft_str_is_printable]()<br />
-[Exercise 07 : ft_strupcase]()<br />
-[Exercise 08 : ft_strlowcase]()<br />
+[Exercise 00 : ft_strcpy](https://github.com/knbyte/42_Piscine_2024/blob/main/Exercises/C02-Ex00-ft_strcpy.c)<br />
+[Exercise 01 : ft_strncpy](https://github.com/knbyte/42_Piscine_2024/blob/main/Exercises/C02-Ex01-ft_strncpy.c)<br />
+[Exercise 02 : ft_str_is_alpha](https://github.com/knbyte/42_Piscine_2024/blob/main/Exercises/C02-Ex02-ft_str_is_alpha.c)<br />
+[Exercise 03 : ft_str_is_numeric](https://github.com/knbyte/42_Piscine_2024/blob/main/Exercises/C02-Ex03-ft_str_is_numeric.c)<br />
+[Exercise 04 : ft_str_is_lowercase](https://github.com/knbyte/42_Piscine_2024/blob/main/Exercises/C02-Ex04-ft_str_is_lowercase.c)<br />
+[Exercise 05 : ft_str_is_uppercase](https://github.com/knbyte/42_Piscine_2024/blob/main/Exercises/C02-Ex05-ft_str_is_uppercase.c)<br />
+[Exercise 06 : ft_str_is_printable](https://github.com/knbyte/42_Piscine_2024/blob/main/Exercises/C02-Ex06-ft_str_is_printable.c)<br />
+[Exercise 07 : ft_strupcase](https://github.com/knbyte/42_Piscine_2024/blob/main/Exercises/C02-Ex07-ft_strupcase.c)<br />
+[Exercise 08 : ft_strlowcase](https://github.com/knbyte/42_Piscine_2024/blob/main/Exercises/C02-Ex08-ft_strlowcase.c)<br />
 Exercise 09 : ft_strcapitalize<br />
 Exercise 10 : ft_strlcpy<br />
 Exercise 11 : ft_putstr_non_printable<br />
