@@ -24,7 +24,7 @@ The number is called the base and the power is given by the exponent. The base i
 *Example: 82  = 8 × 8 = 64*
 
 ***Square Root***<br />
-The square root of a target number is the number that, when multiplied by itself, equals the target number. 
+The square root of a target number is the number that, when multiplied by itself, equals the target number. <br />
 *Example: The square root of 16 is 4 because 4 x 4 = 16.*
 
 ***Prime Number***<br />
