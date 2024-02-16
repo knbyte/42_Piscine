@@ -121,7 +121,12 @@ Completing from Ex00 to Ex04 gives you 50%
 C08...
 
 ### Exercise List
-{Exercise 00:]()<br />
+[Exercise 00 : ft.h](https://github.com/knbyte/42_Piscine_2024/blob/main/Exercises/C08-Ex00-ft.h) <br />
+[Exercise 01 : ft_boolean.h](https://github.com/knbyte/42_Piscine_2024/blob/main/Exercises/C08-Ex01-ft_boolean.h) <br />
+[Exercise 02 : ft_abs.h](https://github.com/knbyte/42_Piscine_2024/blob/main/Exercises/C08-Ex02-ft_abs.h) <br />
+[Exercise 03 : ft_point.h](https://github.com/knbyte/42_Piscine_2024/blob/main/Exercises/C08-Ex03-ft_point.h) <br />
+Exercise 04 : ft_strs_to_tab <br />
+Exercise 05 : ft_show_tab <br />
 
 ### Weighting
 Completing from Ex00 to Ex04 gives you 50%
