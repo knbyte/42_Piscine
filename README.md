@@ -16,4 +16,4 @@ Don't panic. Breathe. We got this. *Keep Swimming.*
 
 ### [Customising Your Terminal & Vim](https://github.com/kaiaydan/42_Piscine_2024/blob/main/Extra%20Resources/Customising%20Vim%20%26%20iTerm.pdf)
 
-### [Black Magic, aka. Makefiles](https://github.com/kaiaydan/42_Piscine_2024/blob/main/Extra%20Resources/Makefiles.md)
+### [Black Magic AKA Makefiles](https://github.com/kaiaydan/42_Piscine_2024/blob/main/Extra%20Resources/Makefiles.md)
