@@ -13,6 +13,7 @@ void    ft_putstr(char *str)
 }
 
 #ifdef DO_MAIN
+
 int main()
 {
     ft_putstr("Hello");
