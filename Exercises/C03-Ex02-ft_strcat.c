@@ -35,7 +35,7 @@ int	main(void)
 
 	printf("Src: %s\n", src);
 	printf("Dest: %s\n", dest);
-	ft_strcat(src, dest);
+	ft_strcat(dest, src);
 	printf("Result: %s\n", dest);
 	return (0);
 }
