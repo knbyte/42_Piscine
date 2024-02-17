@@ -7,9 +7,13 @@ void	ft_putchar(char c);
 int	main(void)
 {
 	rush(5, 3);
-	rush(111, 20);
-	rush(0, 1);
+	write(1, "\n", 1);
+	rush(5, 1);
+	write(1, "\n", 1);
+	rush(1, 1);
+	write(1, "\n", 1);
 	rush(1, 5);
-	rush(-10, 3);
+	write(1, "\n", 1);
+	rush(4, 4);
 	return (0);
 }
