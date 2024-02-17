@@ -28,3 +28,5 @@ I would know, I've just done it - which is why I can tell you that you've got th
 ### [Exams]()
 
 ### [Black Magic AKA Makefiles](https://github.com/kaiaydan/42_Piscine_2024/blob/main/Extra%20Resources/Makefiles.md)
+
+### [Helpful Extensions](https://github.com/knbyte/42_Piscine_2024/blob/main/Extra%20Resources/Extensions)
