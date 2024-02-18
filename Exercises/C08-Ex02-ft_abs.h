@@ -1,21 +1,3 @@
-/* ************************************************************************** */
-/*                                                                            */
-/*                                                        :::      ::::::::   */
-/*   ft_abs.h                                           :+:      :+:    :+:   */
-/*                                                    +:+ +:+         +:+     */
-/*   By: emduncan <emduncan@student.42.fr>          +#+  +:+       +#+        */
-/*                                                +#+#+#+#+#+   +#+           */
-/*   Created: 2024/01/29 01:43:45 by emduncan          #+#    #+#             */
-/*   Updated: 2024/02/18 01:57:48 by emduncan         ###   ########.fr       */
-/*                                                                            */
-/* ************************************************************************** */
-
-#ifndef FT_ABS_H
-# define FT_ABS_H
-
-# define ABS(Value) (((((Value) > 0) * 2 ) - 1) * (Value))
-#endif
-
 /*
 
 If 'Value' is greater than 0
@@ -31,3 +13,9 @@ If not
 * ('Value') - Evaluates to -1 x - 'Value'
 
 */
+
+#ifndef FT_ABS_H
+# define FT_ABS_H
+
+# define ABS(Value) (((((Value) > 0) * 2 ) - 1) * (Value))
+#endif
