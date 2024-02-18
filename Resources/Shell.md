@@ -34,30 +34,30 @@ To have a look at your current files:
 The date, the permissions and the file size/number of bytes of the file.**
 
 Changing the size of the file: ```dd if=/dev/zero of=testShell00 bs=40 count=1```
-> dd  —  used for converting and copying files
-    if=[file] — read from input file
-        of=[file] — write output to file
-            bs=[n] — set input blocks to [n] bytes
-            count=[n] — copy [n] input blocks
-/dev/zero — a special file that provides null characters (0x00) as requested
+> ```dd```  —  used for converting and copying files<br />
+>     ```if=[file]``` — read from input file<br />
+>         ```of=[file]``` — write output to file<br />
+>            ```bs=[n]``` — set input blocks to [n] bytes<br />
+>            ```count=[n]``` — copy [n] input blocks<br />
+> ```/dev/zero``` — a special file that provides null characters (0x00) as requested<br />
 
 Changing the date of the file: ``` touch -mt 202306012342 testShell00```
 > touch -t [YYYYMMDDhhmm] [file] — changes the modification and access times of a file
 
 Changing the permissions of the file: ```chmod 455 testShell00```
 > chmod [xyz] [file] — command to change permissions of a file or directory, xyz is a 3 digit number, each digit corresponding to the permission of the owner, groups, and others. The value of each digit determines the permissions with binary (7 is 111 in binary which means read, write, execute), the digits can also be calculated with maths, where read is 4, write is 2, and execute is 1, and you add those to get each digit.
-
-[***Changing File Permissions - Oracle Help Centre***](https://docs.oracle.com/cd/E19504-01/802-5750/6i9g464pv/index.html)
-| Octal Value | File Permission Set | Permissions Description             |
-| ------------| ------------------- | ----------------------------------- |
-|      0      |         ---         | No Permissions                      |
-|      1      |         --x         | Execute Permissions Only            |
-|      2      |         -w-         | Write Permission Only               |
-|      3      |         -wx         | Write and Execute Permissions       |
-|      4      |         r--         | Read Permissions Only               |
-|      5      |         r-x         | Read and Execute Permissions        |
-|      6      |         rw-         | Read and Write Permissions          |
-|      7      |         rwx         | Read, Write and Execute Permissions |
+> 
+> [***Changing File Permissions - Oracle Help Centre***](https://docs.oracle.com/cd/E19504-01/802-5750/6i9g464pv/index.html)
+> | Octal Value | File Permission Set | Permissions Description             |
+> | ------------| ------------------- | ----------------------------------- |
+> |      0      |         ---         | No Permissions                      |
+> |      1      |         --x         | Execute Permissions Only            |
+> |      2      |         -w-         | Write Permission Only               |
+> |      3      |         -wx         | Write and Execute Permissions       |
+> |      4      |         r--         | Read Permissions Only               |
+> |      5      |         r-x         | Read and Execute Permissions        |
+> |      6      |         rw-         | Read and Write Permissions          |
+> |      7      |         rwx         | Read, Write and Execute Permissions |
 
 
 ### Exercise 03: SSH me!<br />
@@ -67,9 +67,9 @@ Alternatively you can use ```cat ~/.ssh/id_rsa.pub``` and copy and paste that in
 
 
 ### Exercise 04: midLS<br />
-For this one you'll want to go to man ls. The following are the secctions from the manual page you'll be looking for:
-
-echo ls -mtp > midLS — echoes the list program to the file named midLS 
+For this one you'll want to go type the command ```man ls```.
+```ls -abc``` will list the files and follow the conditions of ```-a, -b, and -c```.
+Look through the manual page for which letters will create the result the exercise is asking for.
 
 
 ### Exercise 05: GiT commit<br />
