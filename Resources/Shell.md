@@ -9,14 +9,6 @@ The Shell00 subject is mostly to help you figure your way around the terminal. T
 | cd [directory]           | change directories                                                           |
 | cat [file]               | concatenate, outputs content of a file                                       |
 | echo [contents] > [file] | echo displays a string and with > [file] you can write that string to a file |
-| mkdir                    | make a directory (folder)                                                    |
-| touch
-| chmod
-| 
-| 
-| 
-
-
 
 The mandatory Shell00 assignments (I personally didn't go beyone the mandatory Shell00 and didn't do Shell01)
 
