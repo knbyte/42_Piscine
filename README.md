@@ -16,5 +16,3 @@ I would know, I've just done it - which is why I can tell you that you've got th
 ### [C Exercises](https://github.com/kaiaydan/42_Piscine_2024/blob/main/Resources/C.md)
 
 ### [Customising Your Terminal & Vim](https://github.com/kaiaydan/42_Piscine_2024/blob/main/Extra%20Resources/Customising%20Vim%20%26%20iTerm.pdf)
-
-### More things to come!!!
