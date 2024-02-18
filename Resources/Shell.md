@@ -51,6 +51,18 @@ Changing the permissions of the file: ```chmod 455 testShell00```
 > |      6      |         rw-         | Read and Write Permissions          |
 > |      7      |         rwx         | Read, Write and Execute Permissions |
 
+### A few extra things to know for Ex02
+
+The number right after the permissions is the number of links the file has.<br />
+When you ```ls -l``` if there is a d at the beginning of permissions means it is a directory. An l at the beginning of permissions means it is a symbolic link.<br />
+
+> Creating Links:<br />
+> ```ln [original filename] [link name] ```— create a hard link between two files<br />
+> ```ln -s [original filename]``` — create a sym/symbolic link between two files<br />
+
+When you are dealing with linked files you can use the -h modifier to modify a link without modifying the link destination.<br />
+
+In the case of Ex02 - test 1 and test 5 are a hard link (they both have two linked files and identical everything else) and test6 is a symbolic link to test0.<br />
 
 ### Exercise 03: SSH me!<br />
 This is just making the SSH key - you likely already did this when watching the instructional videos!
